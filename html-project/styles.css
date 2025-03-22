@@ -12,3 +12,16 @@ h2 {
     margin-top: 100px;
     padding-bottom: 13px;
 }
+body{
+    background-color: bisque;
+    justify-items: center;
+}
+
+.headshot{
+    width: 75%;
+    height: auto;
+}
+.container{
+    display:flex;
+    justify-content: center;
+}
